@@ -24,7 +24,7 @@ inputs:
   location:
     description: Artifact registry location
     required: false
-    us-central1
+    default: us-central1
   proto-directory:
     description: Location of the generated protos
     required: false
