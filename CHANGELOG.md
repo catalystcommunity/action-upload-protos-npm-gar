@@ -1,3 +1,11 @@
+# 1.0.0 (2022-03-03)
+
+
+### Bug Fixes
+
+* Fix action.yaml, it was invalid. ([#2](https://github.com/catalystsquad/action-upload-protos-npm-gar/issues/2)) ([2b94905](https://github.com/catalystsquad/action-upload-protos-npm-gar/commit/2b9490598379e93263b3c01a11749ac6ec0680f6))
+* Initial commit ([#1](https://github.com/catalystsquad/action-upload-protos-npm-gar/issues/1)) ([b1d564d](https://github.com/catalystsquad/action-upload-protos-npm-gar/commit/b1d564dad15ababc0c7d79bd1a019f592ef243ec))
+
 # 1.0.0 (2022-02-28)
 
 
