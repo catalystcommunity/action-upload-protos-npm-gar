@@ -13,7 +13,7 @@ Uploads generated protos to google artifact registry
 <!-- start usage -->
 
 ```yaml
-- uses: catalystsquad/action-upload-protos-npm-gar@undefined
+- uses: catalystcommunity/action-upload-protos-npm-gar@undefined
   with:
     # Google credentials json
     credentials-json: ""
